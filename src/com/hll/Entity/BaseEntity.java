@@ -15,6 +15,7 @@ public class BaseEntity implements Serializable{
 	private Date createdDate;
 	private String lastUpdatedBy;
 	private Date lastUpdatedDate;
+	
 	public BaseEntity() {
 		super();
 	}
